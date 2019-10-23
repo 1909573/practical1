@@ -52,12 +52,6 @@
 
         tools:layout_editor_absoluteY="474dp" />
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="@dimen/dimension"
-        android:paddingTop="1"
-        android:text="TextView" />
+
 
 </LinearLayout>
